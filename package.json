@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      
+      "test:open": "npx cypress open",
+      "test:run": "npx cypress run"
+     
+    }
+}
